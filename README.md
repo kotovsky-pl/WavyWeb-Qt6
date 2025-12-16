@@ -1,5 +1,7 @@
 # WavyWeb-Qt6
 
+## > ⚠️ This is an early pre-release.
+
 **WavyWeb-Qt6** is a lightweight web browser written in Python using **PyQt6**.  
 It supports tabs, an address bar, and quick-access buttons to popular websites (DuckDuckGo, Google, YouTube).  
 

@@ -28,5 +28,5 @@ It supports tabs, an address bar, and quick-access buttons to popular websites (
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/WavyWeb-Qt6.git
+git clone https://github.com/kotovsky-pl/WavyWeb-Qt6.git
 cd WavyWeb-Qt6
